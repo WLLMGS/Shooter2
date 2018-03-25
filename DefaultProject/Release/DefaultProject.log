@@ -1,0 +1,73 @@
+﻿  Animator.cpp
+  BaseComponent.cpp
+  b2BroadPhase.cpp
+  b2CollideCircle.cpp
+  b2CollideEdge.cpp
+  b2CollidePolygon.cpp
+  b2Collision.cpp
+  b2Distance.cpp
+  b2DynamicTree.cpp
+  b2TimeOfImpact.cpp
+  b2ChainShape.cpp
+  b2CircleShape.cpp
+  b2EdgeShape.cpp
+  b2PolygonShape.cpp
+  b2BlockAllocator.cpp
+  b2Draw.cpp
+  b2Math.cpp
+  b2Settings.cpp
+  b2StackAllocator.cpp
+  b2Timer.cpp
+  Compiling...
+  b2Body.cpp
+  b2ContactManager.cpp
+  b2Fixture.cpp
+  b2Island.cpp
+  b2World.cpp
+  b2WorldCallbacks.cpp
+  b2ChainAndCircleContact.cpp
+  b2ChainAndPolygonContact.cpp
+  b2CircleContact.cpp
+  b2Contact.cpp
+  b2ContactSolver.cpp
+  b2EdgeAndCircleContact.cpp
+  b2EdgeAndPolygonContact.cpp
+  b2PolygonAndCircleContact.cpp
+  b2PolygonContact.cpp
+  b2DistanceJoint.cpp
+  b2FrictionJoint.cpp
+  b2GearJoint.cpp
+  b2Joint.cpp
+  b2MotorJoint.cpp
+  Compiling...
+  b2MouseJoint.cpp
+  b2PrismaticJoint.cpp
+  b2PulleyJoint.cpp
+  b2RevoluteJoint.cpp
+  b2RopeJoint.cpp
+  b2WeldJoint.cpp
+  b2WheelJoint.cpp
+  b2Rope.cpp
+  Entity.cpp
+  Game.cpp
+  GameObject.cpp
+  LevelLoader.cpp
+  main.cpp
+main.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  PlayerPrefab.cpp
+  RectangleComponent.cpp
+  RigidBodyComponent.cpp
+  Scene.cpp
+  TestScene.cpp
+  TextureManager.cpp
+  Compiling...
+  TilePrefab.cpp
+  TransformComponent.cpp
+  WorldManager.cpp
+  Generating code
+  919 of 930 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DefaultProject.vcxproj -> C:\Users\Willem\Documents\GitHub\Platformer\DefaultProject\Release\DefaultProject.exe
